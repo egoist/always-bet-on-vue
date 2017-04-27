@@ -1,5 +1,7 @@
 # Always Bet On Vue
 
+- Vue 0.11 - [Cowboy Bebop](https://github.com/vuejs/vue/releases/tag/0.11.0)
+- Vue 0.12 - [Dragon Ball](https://github.com/vuejs/vue/releases/tag/0.12.0)
 - Vue 1.0 - [Evangelion](https://github.com/vuejs/vue/releases/tag/1.0.0)
 - Vue 2.0 - [Ghost in the Shell](https://github.com/vuejs/vue/releases/tag/v2.0.0)
 - Vue 2.1 - [Hunter X Hunter](https://github.com/vuejs/vue/releases/tag/v2.1.0)
