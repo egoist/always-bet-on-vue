@@ -1,6 +1,6 @@
 # Always Bet On Vue
 
-- Vue 1.0 - [Evangelion](https://github.com/vuejs/vue/releases/tag/v1.0.0)
+- Vue 1.0 - [Evangelion](https://github.com/vuejs/vue/releases/tag/1.0.0)
 - Vue 2.0 - [Ghost in the Shell](https://github.com/vuejs/vue/releases/tag/v2.0.0)
 - Vue 2.1 - [Hunter X Hunter](https://github.com/vuejs/vue/releases/tag/v2.1.0)
 - Vue 2.2 - [Initial D](https://github.com/vuejs/vue/releases/tag/v2.2.0)
