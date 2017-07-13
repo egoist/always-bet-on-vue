@@ -9,8 +9,9 @@
 - Vue 2.1 - [Hunter X Hunter](https://github.com/vuejs/vue/releases/tag/v2.1.0)
 - Vue 2.2 - [Initial D](https://github.com/vuejs/vue/releases/tag/v2.2.0)
 - Vue 2.3 - [JoJo's Bizarre Adventure](https://github.com/vuejs/vue/releases/tag/v2.3.0)
+- Vue 2.4 - [Kill la Kill](https://github.com/vuejs/vue/releases/tag/v2.4.0)
 - ... what next?
 
 So yeah, this is a guessing game for the code name of each Vue release.
 
-The ongoing one is for [Vue 2.4](https://github.com/egoist/always-bet-on-vue/issues/1)
+The ongoing one is for [Vue 2.5](https://github.com/egoist/always-bet-on-vue/issues/4)
