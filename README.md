@@ -13,6 +13,7 @@
 - Vue 2.5 - [Level E](https://github.com/vuejs/vue/releases/tag/v2.5.0)
 - Vue 2.6 - [Macross](https://github.com/vuejs/vue/releases/tag/v2.6.0)
 - Vue 3.0 - [One Piece](https://github.com/vuejs/vue-next/releases/tag/v3.0.0)
+- Vue 3.1 - [Pluto](https://github.com/vuejs/vue-next/releases/tag/v3.1.0)
 - ... what next?
 
 So yeah, this is a guessing game for the code name of each Vue release.
